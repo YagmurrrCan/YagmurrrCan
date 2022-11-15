@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I am a Computer Engineering student at Turkish German University.
-- 🌱 I’m currently working on programming.
+- 🌱 I’m currently learning JavaScript, React and Redux.
 
  ### Connect with me:
      
