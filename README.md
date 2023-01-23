@@ -33,7 +33,5 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </p>
 
-![Github stats 2]
-(https://github-readme-stats.vercel.app/api?username=YagmurrrCan&show_icons=true&theme=radical)
-![Hiding Stats](https://github-readme-stats.vercel.app/api?username=YagmurrrCan&hide=contribs,prs)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=YagmurrrCan&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurrrCan)](https://github.com/YagmurrrCan/github-readme-stats)
