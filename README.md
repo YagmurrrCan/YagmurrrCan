@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 ![Github stats 2]
 (https://github-readme-stats.vercel.app/api?username=YagmurrrCan&show_icons=true&theme=radical)
 ![Hiding Stats](https://github-readme-stats.vercel.app/api?username=YagmurrrCan&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurrrCan&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagmurrrCan)](https://github.com/YagmurrrCan/github-readme-stats)
