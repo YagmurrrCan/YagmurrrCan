@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I am a Computer Engineering student at Turkish German University.
+- 🔭 Hi , I am Computer Engineer graduated from Turkish German University.
 - 🌱 I’m currently learning JavaScript, React and Next.js.
 
  ### Connect with me:
